@@ -1,8 +1,4 @@
-<head>
-  <link rel="icon" type="image/png" href="./favicon.png">
-</head>
-
-![logo](img/logo.JPG)
+![logo](img/mlops-vectorsearch-final-2.jpg)
 
 ## Overview
 #### October 24 2022 - November 4 2022
