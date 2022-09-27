@@ -55,4 +55,7 @@ Use this space for collaboration, team creation, or extra help/resources. All an
 - Checkout provided [resources](resources.md) and get ready to roll.
 - See our "[rules of engagement](rules.md)".
 
+### ❓ Questions?
+[Get in touch with us!](https://forms.gle/hVSDaywEA8uh395z8) We're more than happy to field any questions or concerns that come up prior to the event.
+
 ____
