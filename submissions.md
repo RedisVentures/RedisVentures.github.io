@@ -30,12 +30,12 @@ The following elements will contribute to your final score:
 | Documentation Quality | 10 |
 
 
-### Winning!
+### 🏆 Winning!
 
 | Place        | Prizes |
 | ----------- | ----------- |
-| 1st | **$1000 USD**, MLOps Comm Meetup, Blog Post, Redis Swag |
+| 1st | **$1000 USD**, **NVIDIA 3080 Ti**, MLOps Comm Meetup, Blog Post, Redis Swag |
 | 2nd - 3rd | **$500 USD**, MLOps Comm Meetup, Blog Post, Redis Swag |
-| 4th-10th | **$100 USD**, Blog Post, Redis Swag |
+| 4th - 8th | **$100 USD**, Blog Post, Redis Swag |
 
 In addition to all other prizes, the **top 3 teams** will have the opportunity to present at a local **MLOps Community Meetup** later in the year.

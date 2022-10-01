@@ -21,6 +21,17 @@ in order to produce a data product that creates value from the arXiv papers data
 ### Why Join?
 >Take part in the **future**. Get ahead of the field. Learn new and emerging techniques in the areas of embedding creation and vector based search, win cool prizes, and meet awesome folks! Plus -- we've made it painfully easy to get started. **What's not to love?!**
 
+## 🏆 Prizes
+Top teams have the chance to win cash prizes, an **NVIDIA 3080 Ti GPU**, Redis swag, and the opportunity to present at a local MLOps Community meetup!! [Check out the full list](submissions.md).
+
+<a
+  href="https://www.nvidia.com/en-us/startups/"
+  target="_blank"
+  rel="noopener">
+    <img src="img/nvidia-inception-program-badge-rgb-for-screen.png" style="width:50%"/>
+</a>
+>[Learn more](https://www.nvidia.com/en-us/startups/) about NVIDIA's Inception program for Startups. Get access to premium NVIDIA hardware, experts, co-marketing support, and the best technical tools / resources to accelerate your mission.
+
 ____
 
 ## Getting Started
