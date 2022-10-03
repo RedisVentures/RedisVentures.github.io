@@ -55,7 +55,7 @@ Use this space for collaboration, team creation, or extra help/resources. All an
 
 ### 🤝🏽 Don't Have a Team?
 1. Sign up and join our [Slack](#join-our-slack).
-2. Find team maes:
+2. Find team mates:
     1. Use slack channel to connect with others.
     2. Join a team organizing session - details forthcoming.
 3. Finalize team members by **Thursday October 20 2022** and share the name and members in Slack.
