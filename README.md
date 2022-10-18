@@ -1,9 +1,9 @@
-![logo](img/mlops-vectorsearch-final-2.jpg)
+![logo](img/final-logo.png)
 
 ## Overview
 #### October 24 2022 - November 4 2022
 
-[Redis](https://redis.io/), [MLOps Community](https://mlops.community/), and [Saturn Cloud](https://saturncloud.io/) are collaborating to host an Engineering Lab (Hackathon) centered on **Vector Search** with the [arXiv scholarly papers](https://arxiv.org/) dataset.
+[Redis](https://redis.io/), [MLOps Community](https://mlops.community/), [NVIDIA Inception](https://www.nvidia.com/en-us/startups/), and [Saturn Cloud](https://saturncloud.io/) are collaborating to host an Engineering Lab (Hackathon) centered on **Vector Search** with the [arXiv scholarly papers](https://arxiv.org/) dataset.
 
 Teams will leverage tools & techniques including:
 - **Vector Similarity Search**
@@ -58,7 +58,7 @@ Use this space for collaboration, team creation, or extra help/resources. All an
 2. Find team mates:
     1. Use slack channel to connect with others.
     2. Join a team organizing session - details forthcoming.
-3. Finalize team members by **Thursday October 20 2022** and share the name and members in Slack.
+3. Finalize team members by EOD **Thursday October 20 2022** and share the name and members in Slack.
 
 ### 💪 Prepare for Kickoff
 - Read about [submissions](submissions.md) and what to expect.
