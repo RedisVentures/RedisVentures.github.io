@@ -44,7 +44,7 @@ Review Useful Saturn Cloud Links:
 
 
 ### Looking for help???
-Having trouble accessing data, using Redis Cloud, or Saturn Cloud? Need to report an issue or a bug? Ask a question in our [Slack channel](#join-our-slack)!
+Having trouble accessing data, using Redis Cloud, or Saturn Cloud? Need to report an issue or a bug? Ask a question in our [Slack channel](https://join.slack.com/t/mlops-community/shared_invite/zt-1cjmjku5d-ZhJitSlS0VtqfCcwRpn_CQ)!
 
 ### Template
 All technical issues or bug reports should include the following details to help US help YOU:
