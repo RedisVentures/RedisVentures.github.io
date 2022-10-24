@@ -10,7 +10,7 @@ Follow the steps below to setup your required **Redis Cloud** and **Saturn Cloud
 
 
 ## Using Redis Cloud
-[Setup your team's Redis Database.]()
+[Setup your team's FREE Redis Cloud Database](https://app.redislabs.com/) using the code `VECSIM600`.
 
 Review Useful Redis Links:
 - [Redis VecSim Starter Tutorial with Notebooks](https://github.com/RedisVentures/redis-vecsim)
@@ -18,7 +18,7 @@ Review Useful Redis Links:
 - [Redis Python Client](https://github.com/redis/redis-py)
 
 ## Using Saturn Cloud
-[Setup your individual Saturn Cloud account.]()
+[Setup your individual FREE Saturn Cloud account.](https://app.community.saturnenterprise.io/auth/signup)
 
 Load the Hackathon Recipe below to get started. **We've included the dataset** in the image to make this as easy as possible --->
 
@@ -28,6 +28,7 @@ Load the Hackathon Recipe below to get started. **We've included the dataset** i
 
 
 Review Useful Saturn Cloud Links:
+ - [Saturn Cloud Quick Start](https://saturncloud.io/docs/quickstart/)
  - [About Saturn Cloud](https://saturncloud.io/why-sc/data-scientists/)
  - [Saturn Cloud Docs](https://saturncloud.io/docs/)
 

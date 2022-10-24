@@ -38,6 +38,8 @@ Sign up as team of up to 4 participants.
 ## 💻 Join Our Slack
 This will be our primary source of communication during the hackathon. Please join! Use this space for collaboration, team creation, or extra help/resources. All important announcements will be here.
 
+>**Join the #engineeringlabs channel!**
+
 <a
   href="https://join.slack.com/t/mlops-community/shared_invite/zt-1cjmjku5d-ZhJitSlS0VtqfCcwRpn_CQ"
   target="_blank"
@@ -46,12 +48,12 @@ This will be our primary source of communication during the hackathon. Please jo
 </a>
 
 ## 🤝🏽 Don't Have a Team?
-1. Sign up and join our [Slack](#join-our-slack).
+1. Sign up and join our [Slack](https://join.slack.com/t/mlops-community/shared_invite/zt-1cjmjku5d-ZhJitSlS0VtqfCcwRpn_CQ) in the #engineeringlabs channel.
 2. Find team mates by connecting with others in that space.
 
 >Having a team (up to 4 people) will give you a competitive advantage. So, YES, it's probably worth it.
 
-## 💪 Prepare for Kickoff
+## 💪 Things You'll Need
 - Read about [submissions](submissions.md) and what to expect.
 - Understand the hackathon [timeline](timeline.md).
 - Checkout provided [resources](resources.md) and get ready to roll.
