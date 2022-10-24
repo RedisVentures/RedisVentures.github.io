@@ -9,7 +9,7 @@
   "environment_variables": {
     "SATURN__JUPYTER_SETUP_DASK_WORKSPACE": "true"
   },
-  "working_directory": "/home/jovyan/examples/examples/rapids",
+  "working_directory": "/home/jovyan",
   "extra_packages": {
     "apt": {
       "install": "unzip"
