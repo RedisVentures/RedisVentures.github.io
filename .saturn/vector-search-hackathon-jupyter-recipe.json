@@ -40,7 +40,7 @@
   "jupyter_server": {
     "instance_type": "g4dn8xlarge",
     "disk_space": "100Gi",
-    "auto_shutoff": "6 hours",
+    "auto_shutoff": "1 hour",
     "start_ssh": false,
     "use_spot_instance": false,
     "start_dind": false,
