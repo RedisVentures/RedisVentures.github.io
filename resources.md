@@ -20,7 +20,7 @@ Review Useful Redis Links:
 ## Using Saturn Cloud
 [Setup your individual FREE Saturn Cloud account.](https://app.community.saturnenterprise.io/auth/signup)
 
-Load the Hackathon Recipe below to get started. **We've included the dataset** in the image to make this as easy as possible --->
+Load the Hackathon Recipe below to get started. **We've included the dataset** under `/home/jovyan/arxiv` baked into the image to make this as easy as possible --->
 
 <a href="https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/RedisVentures/RedisVentures.github.io/main/.saturn/vector-search-hackathon-jupyter-recipe.json" target="_blank" rel="noopener">
   <img src="https://saturncloud.io/images/embed/run-in-saturn-cloud.svg" alt="Run in Saturn Cloud"/>
